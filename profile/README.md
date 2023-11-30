@@ -24,6 +24,8 @@
 https://github.com/2023-skkuse-team3/SKKedula-backend/assets/72601276/8bbd3aac-f933-4c31-943f-db7f224bcb3b
 
 
+# 서비스 아키텍처
+<img width="788" alt="아키아키" src="https://github.com/2023-skkuse-team3/SKKedula-backend/assets/72601276/425a329b-a961-441a-a89e-ef69e54c3278">
 
 # ⚒ 백엔드 기술 스택
 
@@ -40,9 +42,13 @@ https://github.com/2023-skkuse-team3/SKKedula-backend/assets/72601276/8bbd3aac-f
 
 | 분야          | 기술 스택                                           |
 |---------------|-----------------------------------------------------|
-| **Language**  | `Kotilin`       |
+| **Language**  | `Kotlin`       |
 | **Framework** | `androidStudio`               |
 
 <br>
 <br>
+
+# 스택
+<img width="912" alt="아키아키2" src="https://github.com/2023-skkuse-team3/SKKedula-backend/assets/72601276/bf76e548-e864-44e8-a467-df2962377931">
+
 
