@@ -22,3 +22,20 @@
 ## Demo
 
 https://github.com/2023-skkuse-team3/SKKedula-backend/assets/72601276/8bbd3aac-f933-4c31-943f-db7f224bcb3b
+
+
+
+# ⚒ 기술 스택
+
+| 분야          | 기술 스택                                           |
+|---------------|-----------------------------------------------------|
+| **Language**  | `javascript` `Python3`                              |
+| **Framework** | `nodeJS` `fastAPI`                                  |
+| **Infra**     | `AWS EC2`                                     |
+| **DB**        | `SQLite`                                      |
+| **API Sheet** | `Notion` `spreadsheet`                              |
+
+
+<br>
+<br>
+
