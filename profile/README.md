@@ -25,16 +25,23 @@ https://github.com/2023-skkuse-team3/SKKedula-backend/assets/72601276/8bbd3aac-f
 
 
 
-# ⚒ 기술 스택
+# ⚒ 백엔드 기술 스택
 
 | 분야          | 기술 스택                                           |
 |---------------|-----------------------------------------------------|
-| **Language**  | `javascript` `Python3`                              |
-| **Framework** | `nodeJS` `fastAPI`                                  |
+| **Language**  | `Javascript` `Python3`                 |
+| **Framework** | `nodeJS` `fastAPI`                 |
 | **Infra**     | `AWS EC2`                                     |
 | **DB**        | `SQLite`                                      |
 | **API Sheet** | `Notion` `spreadsheet`                              |
 
+
+# ⚒ 프론트 기술 스택
+
+| 분야          | 기술 스택                                           |
+|---------------|-----------------------------------------------------|
+| **Language**  | `Kotilin`       |
+| **Framework** | `androidStudio`               |
 
 <br>
 <br>
